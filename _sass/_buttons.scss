@@ -1,10 +1,3 @@
-.section_1{
-    height: 100vh;
-    .thin{
-        font-weight: 200;
-    }
-}
-
 .ek-button{
     background-color: $ek-green;
     border-color: $ek-dark-green;
@@ -14,8 +7,4 @@
 .ek-buttons{
     display: flex;
     justify-content: space-evenly;
-}
-
-.ek-images{
-    overflow: hidden;
 }
