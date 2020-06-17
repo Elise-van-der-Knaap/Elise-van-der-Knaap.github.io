@@ -1,0 +1,12 @@
+@import "bulma/bulma";
+@import "navbar";
+
+// sections
+@import "section_1";
+
+
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;800&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+}

@@ -1,0 +1,14 @@
+.section_1{
+    height: 100vh;
+    background-color: $ek-purple;
+    .thin{
+        font-weight: 200;
+    }
+}
+
+.ek-button{
+    background-color: $ek-green;
+    border-color: $ek-dark-green;
+    border-radius: 1em;
+    color: #ffffff;
+}
